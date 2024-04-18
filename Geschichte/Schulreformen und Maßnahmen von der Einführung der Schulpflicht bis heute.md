@@ -1,0 +1,16 @@
+- Ferien
+- Bildungsangebot
+- Bestrafungen der Schüler
+- Berufsspezifische Schulen
+	- HTL, HAK,...
+- Technologie
+- Internationale Exkursionen
+- Toleranz, politische Neutralität
+- keine Trennung nach Gender
+- 6 -> 8 -> 9 Jahre Schulpflicht
+- Streichung der Schule am Samstag
+- Schülerfreifahrt
+	- eingeführt in den 1970er-Jahren durch Bruno Kreisky
+- Aktuelles Thema/Diskussion (20.03): Abschaffung der Bachelorarbeit
+- Neue Mittelschule statt Hauptschule
+- Rechtschreibreform

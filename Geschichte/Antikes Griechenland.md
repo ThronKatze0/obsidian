@@ -1,0 +1,22 @@
+- Polis = "Stadt/Staat"
+- Was weißt du zur Literatur im antiken Griechenland?
+	- Berühmteste Werke: Epen von Homer
+	- Logos: Wort/Vernunft
+	- Griechen entwickelten die Philosophie
+- Barbaren = Nichtgriechen
+- Hellenen = Griechen
+- Logos = griech. Wort; bedeutet Vernunft, Wort
+	- Die Griechen versuchten, die Welt durch Vernunft zu erklären (weg von der Mythologie).
+- Olympische Spiele: finden ihren Ursprung in der Antike
+	- werden alle vier Jahre ausgetragen
+	- im Zentrum steht der Olympische Friede
+- Kolonisation: Viele heutige Städte haben einen griech. Ursprung.
+	- z.B. Sizilien, Istanbul, Neapel,...
+- Sparta vs. Athen
+	- gegenseitige Kämpfe => Sparta gewinnt
+	- Sparta
+		- Militärstaat
+	- Athen
+		- Einführung der Demokratie
+Insgesamt kann man sagen, dass die griechische Kultur noch heute in vielen Ländern Europas zu spüren ist.
+- z.B. griechische Mythologie, Olympische Spiele, Vorbild für Rom,...

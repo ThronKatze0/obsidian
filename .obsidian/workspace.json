@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "2337d7a657d73fc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8204c1cb8c99bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5a3dc2005b0053",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas",
+                "viewState": {
+                  "x": -5,
+                  "y": 310,
+                  "zoom": -0.055477618487469876
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acfbdbfeb4be4315",
+    "type": "split",
+    "children": [
+      {
+        "id": "76466df46ab716ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2018044eb64a9a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f99ef352cf9b589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d45c8f15be1169f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f9c3b82772e49b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b686d9bc98e652c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f5465fe291322d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d47c0260c5a7bee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b81588fca7268f9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "241dd211dfc20b74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6a5a3dc2005b0053",
+  "lastOpenFiles": [
+    "Referat Industrielle Revolution/Erfindungen.md",
+    "Referat Industrielle Revolution/Automobil Canvas.canvas",
+    "Referat Industrielle Revolution/Hauptursachen.md",
+    "Referat Industrielle Revolution/Eisenbahn.png",
+    "Eisenbahn.png",
+    "The_Original_Apollo_13_Prime_Crew_-_GPN-2000-001166.jpg",
+    "Eisenbahn 1",
+    "Eisenbahn",
+    "Referat Industrielle Revolution",
+    "Untitled.md",
+    "NSCS/Schichtenmodelle.md",
+    "NSCS/Warum ist das Paket nicht sofort beim Empfänger?.md",
+    "BWM2 Test/Marktforschung.md",
+    "NSCS/metrics-delaycomps.png",
+    "NSCS/Pasted image 20231003135228.png",
+    "NSCS/Pasted image 20231003134833.png",
+    "NSCS/Pasted image 20231003133921.png",
+    "NSCS/Pasted image 20231003133557.png",
+    "NSCS/Pasted image 20230926140727.png",
+    "NSCS/Pasted image 20230926140250.png",
+    "NSCS/Netzwerk-Topologien.md",
+    "NSCS/Kommunikationsarten.md",
+    "NSCS/Klassifikation von Netzwerden.md",
+    "NSCS/Index.md",
+    "NSCS",
+    "Religion/Come as you are.md",
+    "BWM2 Test",
+    "Geschichte/Revolutionen.md",
+    "Religion",
+    "Geschichte/Grundlagen der Geschichte.md",
+    "Geschichte/Schulreformen und Maßnahmen von der Einführung der Schulpflicht bis heute.md",
+    "Geschichte/Übergang Mittelalter  - Neuzeit.md",
+    "Geschichte/Herrschaft im Mittelalter.md"
+  ]
+}

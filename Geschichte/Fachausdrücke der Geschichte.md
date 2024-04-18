@@ -1,0 +1,6 @@
+- **Quelle** --> Informationsträger --> Grundlage für Erkenntnisse der Geschichte
+	- Primärquellen --> Zeugnisse aus erster Hand (z.B.: Das Tagebuch der Anne Frank, Schmuckfunde, Überreste, etc.)
+	- Sekundärquelle --> Berichte, Artikel über Primärquellen (z.B.: Jemand schreibt eine wissenschaftliche Arbeit über die Geschehnisse des 2. WK und das Tagebuch der Anne Frank bildet die Grundlage dafür.)
+- **Objektivität** --> Geschichte im objektiven Sinne ist der Geschehenszusammenhang von Ereignissen (keine eigene Meinung)
+- **Subjektivität** --> ist der eigene Blick und dessen Deutung/Interpretation zu bestimmten Ereignissen.
+- **Fragment** --> etwas Unvollständiges, bruchteilhaftes, z.B.: ein Teil einer Urkunde
