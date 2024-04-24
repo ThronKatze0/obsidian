@@ -11,14 +11,11 @@
             "id": "6a5a3dc2005b0053",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas",
-                "viewState": {
-                  "x": -5,
-                  "y": 310,
-                  "zoom": -0.055477618487469876
-                }
+                "file": "Referat-Geschichte/Langfristige Auswirkungen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas",
+                "file": "Referat-Geschichte/Langfristige Auswirkungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas",
+                "file": "Referat-Geschichte/Langfristige Auswirkungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Referat Industrielle Revolution/Automobil Canvas.canvas"
+                "file": "Referat-Geschichte/Langfristige Auswirkungen.md"
               }
             }
           }
@@ -151,6 +148,18 @@
   },
   "active": "6a5a3dc2005b0053",
   "lastOpenFiles": [
+    "Referat-Geschichte/Rolle Großbritanniens.md",
+    "Referat-Geschichte/Langfristige Auswirkungen.md",
+    "Referat-Geschichte/Veränderungen der Landschaft - städtisches Umfeld.md",
+    "Referat-Geschichte/soziale, politische, wirtschaftliche Folgen.md",
+    "Referat-Geschichte/Einfluss von Maschinen auf traditionelle Handwerksmethoden.md",
+    "Referat-Geschichte/Automobil Canvas.canvas",
+    "Referat-Geschichte/Erfindungen.md",
+    "Referat-Geschichte/Hauptursachen.md",
+    "Referat-Geschichte/Hauptursachen_short.md",
+    "Referat-Geschichte/Hauptursachen_wiki.md",
+    "Referat-Geschichte/Eisenbahn.png",
+    "NSCS/Schichtenmodelle.md",
     "Referat Industrielle Revolution/Erfindungen.md",
     "Referat Industrielle Revolution/Automobil Canvas.canvas",
     "Referat Industrielle Revolution/Hauptursachen.md",
@@ -161,7 +170,6 @@
     "Eisenbahn",
     "Referat Industrielle Revolution",
     "Untitled.md",
-    "NSCS/Schichtenmodelle.md",
     "NSCS/Warum ist das Paket nicht sofort beim Empfänger?.md",
     "BWM2 Test/Marktforschung.md",
     "NSCS/metrics-delaycomps.png",
@@ -170,7 +178,6 @@
     "NSCS/Pasted image 20231003133921.png",
     "NSCS/Pasted image 20231003133557.png",
     "NSCS/Pasted image 20230926140727.png",
-    "NSCS/Pasted image 20230926140250.png",
     "NSCS/Netzwerk-Topologien.md",
     "NSCS/Kommunikationsarten.md",
     "NSCS/Klassifikation von Netzwerden.md",

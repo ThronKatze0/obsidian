@@ -74,6 +74,40 @@
 	- Wie wird der Beginn der Übertragung signalisiert?
 - Übertragungsmöglichkeiten:
 	- elektrische Signale
+		- POTS (pretty old telephone system)
+			- Modems ca. 56 kbps Ende der 90er
+			- DSL -> 1-100 Mbps
+				- ADSL
+				- VDSL
 	- optische Signale
-		- Lichtwellenleiter
+		- Lichtwellenleiter (aka Glasfaser)
 		- Infrarot
+	- elektromagnetische Wellen
+		- Funk
+		- Schall
+- Übertragungsmedien
+	- Drahtweg / Kabel
+		- Vorteile
+			- Einfache Technik
+			- Günstig in Herstellung
+		- Nachteile
+			- Eingeschränkte Reichweite
+			- Empfindlich auf äußere Störeinflüsse
+	- Funkweg
+		- Vorteile
+			- Überbrückung hoher Distanzen
+			- Erreichbarkeit entfernter Gebiete
+			- Komfort
+		- Nachteile
+			- Empfindlich hinsichtlich Störung
+			- Abhörsicherheit
+			- Geringe Datenraten
+	- Lichtwellenleiter
+		- Vorteile
+			- Hohe Distanzen und Datenraten möglich
+			- Unempfindlich hinsichtlich äußeren Störungen
+			- Weniger Platzbedarf und Gewicht
+		- Nachteile
+			- Teure Gerätetechnik
+			- Aufwändigere Anschlusstechnik
+			- Mechanisch empfindlich
