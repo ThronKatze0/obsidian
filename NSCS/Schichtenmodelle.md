@@ -1,7 +1,7 @@
 ---
 id: Schichtenmodelle
-aliases: []
-tags: []
+aliases: 
+tags:
 ---
 
 - komplette Funktionalität einer Netzwerkanwendung in Schichten (_layer_) aufgeteilt
@@ -145,4 +145,36 @@ tags: []
 #### Ethernet - Data link layer
 
 - Übertragung der Daten erfolgt in Framse
+![[ethernet-frame.jpg]]
+- Ankündigung der Übertragung mit Bitfolge 1010101...
+- Empfänger (Destination) und Absender (Source) werden über Adressen identifiziert (MAC Adresse, phys. Adresse)
+- Adressen werden vom Hersteller vergeben
+- Nutzdaten typischerweise bis zu 1500 Bytes
+- Interpretation der Nutzdaten abhängig von Type Feld
+- Fehlererkennung über Frame Check Squence (FCS) - 32-Bit Prüfsumme (fehlerhafte Frames werden verworfen)
 
+#### Ethernet - MAC-Adressen
+- Identifizieren Absender und Empfänger
+- 48-Bit Adressen, hexadezimale Schreibweise
+- DC:A6:32:85:E6:FE bzw. DC-A6-32-85-E6-FE
+- Vordere Bits identifizieren Hersteller (Registry)
+- Ab Werk vom Hersteller gesetzt, keinse Konfiguration erforderlich
+- Spezielle Adresse FF:FF:FF:FF:FF:FF für Broadcast im Netzwerks
+
+#### Ethernet - Physical Layer
+- Verwendete Topologien
+	- Ursprünglich Bus
+	- Mittlerweile Stern bzw. Point to Point
+- Ethernet unterstützt unterschiedliche Kabel/Technologien
+	- Koaxialkabel (z.B. 1000BASE-T), 10 Base -> 10Mbps
+	- Twisted-Pair-Kabel (z.B. 1000Base-t)
+	- Single-Mode Glasfaser (eine Wellenlänge, 1000BASE-LS)
+	- Multi-Mode Glasfaser (mehrere Wellenlängen, 1000BASE-SX)
+- Basis bildet meist eine strukturierte Verkabelung
+
+#### Strukturierte Verkabelung
+- Konzept für die Verkabelung mit anwendungsneutralen Kommunikationskabeln in und zwischen Gebäuden
+- Anwendungsneutral bedeutet, die Verkabelung kann für unterschiedliche Zwecke wie Rechnernetze, Telefonie etc. verwendet werden
+- Europäische Norm CENELEC - EN 50173 und EN 50174
+- International ISO/IEC 11801
+- Definieren unter anderem Kabeltypen - Category 5, 5e, 6, 7, etc.

@@ -19,3 +19,16 @@ Die Priesterweihe bestimmt den Mann so für seinen besonderen Dienst, die Botsch
 - Geschenke und Feste: Bei manchen Sakramenten wie Kommunion oder Firmung spielen auch die damit verbundenen Feste, Rituale und Geschenke eine Rolle.
     
 - Familiendruck: In manchen Fällen üben auch die Erwartungen der Familie ohne eigenen Glauben Druck auf die Sakramenten-Inanspruchnahme aus.
+
+# Persönliche Meinungen
+- Nein, weil
+	- zu viel Verantwortung
+	- man keine Familie gründen kann
+	- schlechter Ruf in der Gesellschaft
+- Warum entscheiden sich trotzdem Menschen für die Priesterweihe:
+	- Familiendruck
+	- Tradition
+	- Der Wunsch, Gott zu dienen und anderen Menschen auf ihrem spirituellen Weg beizustehen
+	- Das Interesse an theologischen Fragen und der Weitergabe des christlichen Glaubens
+	- Der Wunsch, ein erfülltes Leben im Dienst anderer zu führen 
+	- Kirchliche Gemeinschaft
