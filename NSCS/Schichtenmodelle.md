@@ -1,7 +1,7 @@
 ---
 id: Schichtenmodelle
-aliases: 
-tags:
+aliases: []
+tags: []
 ---
 
 - komplette Funktionalität einer Netzwerkanwendung in Schichten (_layer_) aufgeteilt
@@ -145,7 +145,7 @@ tags:
 #### Ethernet - Data link layer
 
 - Übertragung der Daten erfolgt in Framse
-![[ethernet-frame.jpg]]
+  ![[ethernet-frame.jpg]]
 - Ankündigung der Übertragung mit Bitfolge 1010101...
 - Empfänger (Destination) und Absender (Source) werden über Adressen identifiziert (MAC Adresse, phys. Adresse)
 - Adressen werden vom Hersteller vergeben
@@ -154,6 +154,7 @@ tags:
 - Fehlererkennung über Frame Check Squence (FCS) - 32-Bit Prüfsumme (fehlerhafte Frames werden verworfen)
 
 #### Ethernet - MAC-Adressen
+
 - Identifizieren Absender und Empfänger
 - 48-Bit Adressen, hexadezimale Schreibweise
 - DC:A6:32:85:E6:FE bzw. DC-A6-32-85-E6-FE
@@ -162,19 +163,62 @@ tags:
 - Spezielle Adresse FF:FF:FF:FF:FF:FF für Broadcast im Netzwerks
 
 #### Ethernet - Physical Layer
+
 - Verwendete Topologien
-	- Ursprünglich Bus
-	- Mittlerweile Stern bzw. Point to Point
+  - Ursprünglich Bus
+  - Mittlerweile Stern bzw. Point to Point
 - Ethernet unterstützt unterschiedliche Kabel/Technologien
-	- Koaxialkabel (z.B. 1000BASE-T), 10 Base -> 10Mbps
-	- Twisted-Pair-Kabel (z.B. 1000Base-t)
-	- Single-Mode Glasfaser (eine Wellenlänge, 1000BASE-LS)
-	- Multi-Mode Glasfaser (mehrere Wellenlängen, 1000BASE-SX)
+  - Koaxialkabel (z.B. 1000BASE-T), 10 Base -> 10Mbps
+  - Twisted-Pair-Kabel (z.B. 1000Base-t)
+  - Single-Mode Glasfaser (eine Wellenlänge, 1000BASE-LS)
+  - Multi-Mode Glasfaser (mehrere Wellenlängen, 1000BASE-SX)
 - Basis bildet meist eine strukturierte Verkabelung
 
 #### Strukturierte Verkabelung
+
 - Konzept für die Verkabelung mit anwendungsneutralen Kommunikationskabeln in und zwischen Gebäuden
 - Anwendungsneutral bedeutet, die Verkabelung kann für unterschiedliche Zwecke wie Rechnernetze, Telefonie etc. verwendet werden
 - Europäische Norm CENELEC - EN 50173 und EN 50174
 - International ISO/IEC 11801
 - Definieren unter anderem Kabeltypen - Category 5, 5e, 6, 7, etc.
+
+#### Ethernet - Horizontale Verkabelung
+
+- Sternförmige Verkabelung mit Switch als zentralen Punkt
+- Geräte werden mittels Patchkabel an Anschlussdose angeschlossen
+- Fixes Verlegekabel zwischen Anschlussdose und Patchpanel
+
+#### Patch Kabel Aufdruck Informationen
+
+- Kabeltyp
+- Länge
+- Hersteller
+- Zertifizierung
+
+### Switches
+
+- Verteilt Ethernet Frames im lokalen Netzwerk
+- Wertet Ethernet Header aus - insbesondere Destination Address
+- Arbeitet auf ISO/OSI Layer 2
+- Unterschiedliche Bauformen
+  - Anzahl von RJ-45 (Registered Jack) Ports
+  - Small Form-Factor Pluggable (SFP) Ports für Glasfaserverbindungen
+  - Desktop oder 19" Rack Montage
+
+#### Funktionsweise von Switches
+
+- Switch verwaltet eine interne Tabelle mit Mappings von MAC Adresse auf bestimmten Ports
+- Switch lernt laufend die Einträge der Tabelle
+  - Ausgenommen Switch empfängt Frame auf Port 3
+  - Switch entnimmt die Quell-Adresse 00:15:5d:45:f7:2d aus dem Ethernet Header
+  - Speichert neuen Eintrag 00:15:5d:45:f7:2d -> Port 3
+- Weiterleitung basierend auf Ziel-Adresse
+  - Gibt es einen Eintrag für die MAC Adresse
+  - Wenn ja, dann Weiterleitung über Ports aus Tabelle
+- Verhinderung von Schleifen mit Hilfe des Spanning Tree Protokolls
+
+  13.5.2.7 -> Dotted Decimal notation
+
+  143.205.0.0/16
+  Netz-Id Host-Id
+  16 (Bedeutung) -> 16 Bit für Netz-Id, 16 Bit für Host-Id

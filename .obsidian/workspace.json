@@ -72,11 +72,14 @@
             "id": "fb0fc262643ae867",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Geschichte/Referat Revolutionen von morgen.md",
-                "mode": "source",
-                "source": false
+                "file": "NSCS/Switches Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -147,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Referat Revolutionen von morgen.md",
+                "file": "NSCS/Switches Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Referat Revolutionen von morgen.md",
+                "file": "NSCS/Switches Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Referat Revolutionen von morgen.md"
+                "file": "NSCS/Switches Canvas.canvas"
               }
             }
           }
@@ -212,11 +215,13 @@
   "active": "fb0fc262643ae867",
   "lastOpenFiles": [
     "NSCS/Schichtenmodelle.md",
+    "NSCS/Switches Canvas.canvas",
+    "Priesterweihe.md",
     "Geschichte/Referat Revolutionen von morgen.md",
+    "Geschichte/Untitled.md",
     "NSCS/Kommunikationsarten.md",
     "NSCS/Netzwerk-Topologien.md",
     "ethernet-frame.jpg",
-    "Priesterweihe.md",
     "Religion/Come as you are.md",
     "NSCS/1714478908-UPHD.md",
     "NSCS/Schichtenmodelle.md~",
@@ -254,8 +259,6 @@
     "BWM2 Test",
     "Geschichte/Revolutionen.md",
     "Religion",
-    "Geschichte/Grundlagen der Geschichte.md",
-    "Geschichte/Schulreformen und Maßnahmen von der Einführung der Schulpflicht bis heute.md",
-    "Geschichte/Übergang Mittelalter  - Neuzeit.md"
+    "Geschichte/Grundlagen der Geschichte.md"
   ]
 }
